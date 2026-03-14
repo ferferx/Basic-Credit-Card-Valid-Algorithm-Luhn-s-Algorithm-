@@ -1,1 +1,1 @@
-# Basic-Credit-Card-Valid-Algorithm-Luhn-s-Algorithm-
+# Basic credit card validation algorithm (Luhn's Algorithm)
